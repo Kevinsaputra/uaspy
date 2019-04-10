@@ -6,6 +6,12 @@ silakan tuliskan langkah-langkah disertai screenshotnya
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/46512670/55851244-118f7080-5b82-11e9-968f-76a4e23b6315.png)
 
+Lalu Clone
+
+![Screenshot (44)](https://user-images.githubusercontent.com/46512670/55853584-fd507100-5b8b-11e9-885f-dd175bc0dd29.png)
+
+
+
 # 2 . Setelah itu Install PIP. disini saya menggunakan Cmd untuk menginstall PIP caranya yaitu jalankan Cmd dengan administrator dengan cara klik kanan lalu search IDLE pycharm klik kanan dan run administrator lalu klil file Scripts lalu jalankan.
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/46512670/55851466-e5282400-5b82-11e9-9496-2a4f412556f3.png)
